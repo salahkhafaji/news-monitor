@@ -21,4 +21,5 @@ __pycache__/
 
 # OS files
 .DS_Store
-Thumbs.dbHow to run.txt
+Thumbs.db
+How to run.txt
