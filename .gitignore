@@ -20,6 +20,8 @@ __pycache__/
 *.swo
 
 # OS files
+active env.png
+active in vs code and other.png
 .DS_Store
 Thumbs.db
 How to run.txt
